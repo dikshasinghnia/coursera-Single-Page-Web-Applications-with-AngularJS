@@ -23,7 +23,7 @@
                 });
 
                 if (arrayDishesWithoutEmptys.length <= 3) {
-                    $scope.message = 'Enjoy your meal!';
+                    $scope.message = 'Enjoy!';
                 } else {
                     $scope.message = 'Too much!';
                 }
